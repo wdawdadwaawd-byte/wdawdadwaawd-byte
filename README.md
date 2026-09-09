@@ -17,12 +17,6 @@
 
 ---
 
----
-
-
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wdawdadwaawd-byte&style=flat-square&color=critical&label=PROFILE+VIEWS" />
 </p>
