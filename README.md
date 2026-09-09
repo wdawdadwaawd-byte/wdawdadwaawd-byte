@@ -1,16 +1,20 @@
-## Hi there 👋
+### 👋 Merhaba, ben [Adın / Kullanıcı Adın]!
 
-<!--
-**wdawdadwaawd-byte/wdawdadwaawd-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 💻 Yazılım geliştirme ve kodlama süreçleriyle ilgileniyorum.
+* ⚡ Teknolojiler, otomasyon sistemleri ve web projeleri üzerine çalışmayı seviyorum.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Kullandığım Teknolojiler ve Araçlar
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,php,js,cpp,cs,html,css,git,linux,vscode" />
+</p>
+
+---
+
+### 📊 GitHub İstatistiklerim
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
