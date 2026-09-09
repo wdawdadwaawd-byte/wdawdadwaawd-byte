@@ -17,18 +17,9 @@
 
 ---
 
-### 🏆 GitHub Başarımlarım
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wdawdadwaawd-byte&theme=tokyonight&no-frame=true&margin-w=4&margin-h=4&row=1&column=3" />
-</p>
-
 ---
 
-### 📊 İstatistikler & Diller
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wdawdadwaawd-byte&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdawdadwaawd-byte&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+
 
 ---
 
