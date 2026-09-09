@@ -4,13 +4,13 @@
 
 ---
 
-### 👋 About Me
-* 💻 Passionate about software development, automation systems, and architecture.
-* ⚡ I love breaking systems down, exploring the mechanics, and writing code.
+###  About Me
+*  Passionate about software development, automation systems, and architecture.
+*  I love breaking systems down, exploring the mechanics, and writing code.
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,nodejs,go,rust,linux,git,vscode" />
 </p>
